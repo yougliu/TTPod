@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <attr name="default_cover" format="integer" />
+    <attr name="default_shadow" format="integer" />
+    <attr name="font_size" format="integer" />
+    <attr name="highlight_color" format="color" />
+    <attr name="foreground_color" format="color" />
+    <attr name="display_method" format="integer" />
+</resources>

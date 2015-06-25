@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.isoftstone.tianlai.view.ViewGroupHook 
+	android:background="#bd232323" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+  	xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.isoftstone.tianlai.view.LyricShow 
+	    android:layout_gravity="center" android:id="@id/LyricShow" 
+	    android:fadingEdge="horizontal|vertical" 
+	    android:layout_width="fill_parent" 
+	    android:layout_height="fill_parent" 
+	    
+	    />
+	    <!-- 
+	    ttpod:highlight_color="#ff2af5ee" 
+	    ttpod:foreground_color="#ffffffff" 
+	    ttpod:display_method="0"
+	    
+	     -->
+</com.isoftstone.tianlai.view.ViewGroupHook>

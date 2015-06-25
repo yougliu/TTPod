@@ -1,0 +1,290 @@
+Error
+OK
+Back
+Artist
+Title
+Album
+Cancel
+Effect
+Title
+Checking for Updates
+Property
+Add To
+Unknown
+Del-LRC
+Del-PIC
+New List
+Restoring default
+Finish
+Album
+Genre
+Artist
+Song library
+All the Songs
+Playlist
+Recent PlayList
+Category
+TTPod Recommendation
+Existing {0} Songs
+Categoried as the singer, album, genre, folder
+Existing {0} List
+Recently Played {0} songs
+TTPod Recommendation
+Folders
+Existing {0} albums
+Existing {0} genres
+Existing {0} artists
+Existing {0} music folders
+{0}
+{0} Songs
+{0}
+{0} Songs
+Other
+Unable to update,and the problems may be##- no active networks. ##- server error
+Your App is the latest.
+Ahead of 0.5 seconds
+Delay of 0.5 seconds
+Ahead 0.5 seconds
+Delay 0.5 seconds
+Reset
+Searching the Lyrics
+Preparing the Lyrics
+Found no Lyrics
+TTPod no lyrics
+More
+Loading...
+Others
+Tip
+Exit
+Save
+Error, fail to get file properties!
+Genres selection
+Modify songs' properties
+File is saving,please wait...
+Song's properties saved successfully!
+It will take a long time to modify this kind of songs.Are you to do that?
+Confirm
+POP
+Rock
+Metal
+Dance
+Country
+Jazz
+Electronic
+Classical
+Blues
+Oldies
+Opera
+Voice
+Song
+Year
+Track
+Comment
+Download
+Find the latest Version ## Version:{0}## Date:{1}
+Stereo
+Two-channel Stereo
+Dual Channel
+Single Track
+Recently Played
+My Favorite
+TTPOD
+Playing:
+Paused:
+No SDCard
+No sdcard, now you are in a situation without sdcard!
+Display
+Karaoke
+Rows
+Font Size
+Color Theme
+Lock
+Filtering
+Preferences
+Help
+About
+Share
+Exit
+Land-scape
+Portrait
+Play Mod
+Sleep
+Seek-LRC
+Seek-PIC
+Ring
+Inform bell
+Alarm clock bell
+All Rings
+Call-coming ring
+Lyric/Picture selection
+Picture selection
+Lyric selection
+Lyric auto selection
+Picture auto selection 
+Adjust
+Mini Lyric
+Playing in order
+Play in list cycle
+play in single cycle
+play in random
+Please enter the serial number
+Serial number:
+Warning!
+Serial number error!
+App Initialization error,be about to quit!
+Forder Filtering
+Data updating,please wait...
+List name should not be empty,please enter again:
+List name already exists,please enter again:
+Rename List
+Mark All
+Unmark All
+Reverse choose
+Marked songs have been removed!
+Delete files?
+Unmarked songs
+Auto stop playback
+Network error,please checkout network connection or try again later.
+Fail to remove marked songs
+No rings can be set.
+Fail to set bell
+Has been set to
+End the Program
+Stop Playback
+Sleep mode has been closed
+Invalid setting
+Inverse time
+In {0} minutes later
+Sleep waiting time (minutes)
+Song Name
+Artist Name
+Picture deleted
+Lyric deleted
+lyric unloaded
+Failed to delete lyrics
+songs unloaded
+Hi, I'm playing a paragraph of cool free mobile player, ##, and recommend you to have a try. http://www.ttpod.com/
+This software is completely for free, use produces in the process of flow incurred by the network operators charge. ## ## 1) automatic download matching lyrics and picture of setting method: ## open menu, select [system setup], tick [automatically download lyrics and pictures]. ## ## 2. Sleep patterns setting method: ## open menu, select [system setup], setting sleep behavior, and then open [menu, select the [] sleep patterns], input sleep time
+{0}(Android)## ##version: {1}build {2} ##domain:http://www.ttpod.com ##support email:support@ttpod.com ##Business mail:market@ttpod.com ####(c) 2009-2010 ##Nuts studio, all rights reserved  ##;
+Start mark pattern
+Closed mark pattern
+Edit
+Sort list as adding time
+Sort list as artist name
+Sort list as album name
+Sort list as genre
+Sort list as file name
+Sort list as title
+Mark
+Sorting
+Remove from list
+In-Mark
+Search
+Mark All
+Reversing
+Unmark-All
+Out-Mark
+Play
+Pause
+Mark
+Cancel mark
+Delete from list
+Del-File
+Add to
+Set to ring
+Rename
+Delete list
+Data loading,please wait...
+Now it isn¡¯t in support of changing this type of files¡¯ tab
+Song:            {0} ##Artist:           {1} ##Album:         {2} ##Format:       {3} ##Duration:     {4} ##Size:             {5} ##Bitrate:        {6} ##Frequency:   {7} ##Year:            {8} ##Track:           {9} ##Genre:          {10}##ChannelMode:{11} ##Position:       {12} ##Composer:    {13}
+{0}h
+{0}m
+{0}s
+yes
+no
+Close mini-lyric
+Single line
+Tip
+Create desktop icon? 
+preferences
+General
+Auto play when booted
+When App started up, auto play the songs.
+Memorize stop position
+Memorize playing position while App quit
+Backlighting on
+In player interface, keep screen backlight on
+Sleep patterns
+Set player action after sleeping countdown
+Tip new version
+when the newest version exists, notify you with a tip
+Lyric/picture settings
+Minilyric
+Minilyric ON/OFF control
+Download lyrics automatically
+Download lyrics automatically while lacking of lyrics
+Select lyrics automatically
+Download the proper lyrics while there are many choices
+Download images automatically
+Download images while lacking of images
+Select pictures automatically
+Download the proper pictures while there are many choices
+Display built-in image
+Display the songs¡¯ built-in pictures
+Others
+Call-coming action
+Set the call-coming action
+Suspend while pulling out headset
+Suspend the playing file while pulling out headset, and the version doesn't support Lephone temporarily   
+Language
+select the language you need
+New list
+New list name: 
+Small
+Medium
+Big
+Left
+Center
+Right
+Karaoke
+Slowly roll
+Fade
+Alignment
+Font size
+Downloading Picture ON 
+Downloading Lyric ON
+Exit
+Stop
+Pause
+Volume Down
+Unchanged
+Shake for songs
+Shake you phone for the next song
+Restore Preferences
+Reset to default Preferences
+Restore all of the app Preferences to default
+MiniLyric-TTPod
+Click to lock minilyrics, and close touch adjustment
+Click to unlock mini lyrics, and restore touch adjustment
+Preferences have been rollback to original state
+MiniLyric locked
+MiniLyric Unlocked
+Lock MiniLyric
+switch for locking/unlocking minilyric
+Error in language file!
+Accuracy for shake
+Accuracy adjustment of shaking for songs
+Day mode
+Night mode
+Screen light at night-mode
+Set screen light of night-mode
+Click to open minilyrics display
+Scanning
+Scanning...
+Updating is completed
+Allow remote control
+enable to control the player with the Headphones
+TTPod support the use of the headset call button to control playback,As follows:## ¡ó Click: play or pause## ¡ó Double-click: next one## ¡ó Long-press: previous one##When the TTPod does not start, long-press the headset call button to start the TTPod
+Lyrics not found,click search
+Open auto download lyrics
+miniLyric has been hidden,you can find it in the notification window 
